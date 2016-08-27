@@ -1,0 +1,36 @@
+---
+title: "Readme"
+author: "AaronWilliams"
+date: "28 August 2016"
+output: html_document
+---
+
+# Developing Data Prododucts - CourseProject
+
+This is a submission for Coursera: Developing Data Products- Course Project
+
+## Summer Olympics Medals World Map
+
+
+This application is based on the the data set downloaded on 16th August 2016 from [Data Source](https://www.theguardian.com/sport/datablog/2012/jun/25/olympic-medal-winner-list-data#data)
+
+***
+
+### Usage
+#### Inputs and Outputs
+
+The slider allows users to select the Olympic year to display on the interactive map.
+
+Moving the cursor over each country will display the number of Gold, Silver, and Bronze medals and Total medal count.
+
+The total medals for the selected country is also highlighted on the colour scale bar below the map.
+
+***
+
+### Additional Information
+
+You can view the app [here]( https://datasensenz.shinyapps.io/OlympicMedals/)
+
+My github page contains all the relevant R code for [here](https://github.com/Puddleboat/OlympicMedals.git)
+
+I have also prepared a slideshow presentation with more information [here](http://rpubs.com/DataSenseNZ/204648)
